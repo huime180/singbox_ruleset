@@ -1,0 +1,15 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "95599.cn",
+        "abchina.com",
+        "openaboc.com.cn",
+        "openaboc.com",
+        "bscabank.com",
+        "openaboc.cn"
+      ]
+    }
+  ],
+  "version": 2
+}

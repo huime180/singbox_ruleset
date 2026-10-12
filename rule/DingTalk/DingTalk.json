@@ -1,0 +1,20 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "dingtalk.net",
+        "ddurl.to",
+        "dingtalkapps.com",
+        "dg-work.cn",
+        "dingtalk.com",
+        "dingtalk.com.cn",
+        "laiwang.com",
+        "lwurl.to",
+        "dingtalk.cn",
+        "realapp.xin",
+        "dingding.xin"
+      ]
+    }
+  ],
+  "version": 2
+}

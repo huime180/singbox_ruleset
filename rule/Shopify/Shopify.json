@@ -1,0 +1,17 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "shopify.com",
+        "shopifycdn.com",
+        "myshopify.com",
+        "shop.app",
+        "shopifycloud.com",
+        "shopify.dev",
+        "shopifystatus.com",
+        "shopifysvc.com"
+      ]
+    }
+  ],
+  "version": 2
+}
