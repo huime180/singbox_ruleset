@@ -1,0 +1,3 @@
+# 统一行尾，避免在 Windows 上编辑后 shell 脚本被签出成 CRLF 导致 runner 上执行失败
+* text=auto eol=lf
+*.srs binary
