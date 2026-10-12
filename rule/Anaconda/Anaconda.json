@@ -3,9 +3,9 @@
     {
       "domain_suffix": [
         "anaconda.com",
-        "anaconda.cloud",
         "conda.io",
-        "anaconda.org"
+        "anaconda.org",
+        "anaconda.cloud"
       ]
     }
   ],

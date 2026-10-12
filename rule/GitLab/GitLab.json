@@ -4,9 +4,9 @@
       "domain_suffix": [
         "gitter-static.net",
         "gitlab.net",
-        "gitlab.com",
         "gitlab-static.net",
         "gitlab-assets.oss-cn-hongkong.aliyuncs.com",
+        "gitlab.com",
         "gitter.im"
       ]
     }

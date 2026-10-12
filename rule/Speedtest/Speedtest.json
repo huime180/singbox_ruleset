@@ -6,12 +6,12 @@
       ],
       "domain_suffix": [
         "speedtestcustom.com",
-        "speed.dler.io",
-        "speed.cloudflare.com",
         "ooklaserver.net",
-        "speedtest.net",
+        "speed.cloudflare.com",
+        "speedtest.co",
+        "speed.dler.io",
         "fast.com",
-        "speedtest.co"
+        "speedtest.net"
       ]
     }
   ],

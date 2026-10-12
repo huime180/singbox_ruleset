@@ -2,22 +2,22 @@
   "rules": [
     {
       "domain_suffix": [
-        "huayi.cn",
-        "91huayi.com",
-        "roboticsurg301.net",
-        "wsglw.com",
-        "91huayi.net",
-        "wsglw.net",
-        "shiyanma.org.cn",
         "gov.cn",
-        "heart301.cn",
-        "91huayi.cn",
-        "sqpx.org",
+        "91huayi.com",
+        "shiyanma.org.cn",
+        "huayiweibo.com",
+        "wsglw.com",
+        "huayi.cn",
         "robot301.net",
-        "scncrc.com",
-        "huayiyuan.com",
         "henancme.net",
-        "huayiweibo.com"
+        "huayiyuan.com",
+        "91huayi.cn",
+        "roboticsurg301.net",
+        "scncrc.com",
+        "wsglw.net",
+        "91huayi.net",
+        "heart301.cn",
+        "sqpx.org"
       ]
     }
   ],

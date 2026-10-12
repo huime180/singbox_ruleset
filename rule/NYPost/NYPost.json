@@ -2,8 +2,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "nypostreprints.com",
         "nypost.help",
+        "nypostreprints.com",
         "nypost.com"
       ]
     }

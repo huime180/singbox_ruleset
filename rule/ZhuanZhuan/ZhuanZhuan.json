@@ -2,10 +2,10 @@
   "rules": [
     {
       "domain_suffix": [
-        "zhuan-zhuan.cn",
-        "zhuanzhuan.com",
         "zhuanspirit.com",
-        "zhuancorp.com"
+        "zhuancorp.com",
+        "zhuanzhuan.com",
+        "zhuan-zhuan.cn"
       ]
     }
   ],

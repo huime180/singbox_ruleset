@@ -2,10 +2,10 @@
   "rules": [
     {
       "domain_suffix": [
-        "mirrorcast.com.cn",
-        "hpplay.cn",
         "mirrorcast.cn",
+        "mirrorcast.com.cn",
         "mirrorcast.tv",
+        "hpplay.cn",
         "hpplay.com.cn"
       ]
     }

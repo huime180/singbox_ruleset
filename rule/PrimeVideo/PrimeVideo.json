@@ -2,26 +2,26 @@
   "rules": [
     {
       "domain": [
-        "d25xi40x97liuc.cloudfront.net",
         "d27xxe7juh1us6.cloudfront.net",
-        "atv-ps.amazon.com",
-        "d22qjgkvxw22r6.cloudfront.net",
-        "d1v5ir2lpwr8os.cloudfront.net",
-        "fls-na.amazon.com",
-        "www.amazon.com",
         "avodmp4s3ww-a.akamaihd.net",
-        "dmqdd6hw24ucf.cloudfront.net"
+        "www.amazon.com",
+        "d22qjgkvxw22r6.cloudfront.net",
+        "dmqdd6hw24ucf.cloudfront.net",
+        "d1v5ir2lpwr8os.cloudfront.net",
+        "d25xi40x97liuc.cloudfront.net",
+        "fls-na.amazon.com",
+        "atv-ps.amazon.com"
       ],
       "domain_keyword": [
         "avoddashs"
       ],
       "domain_suffix": [
-        "aiv-cdn.net",
-        "amazonvideo.com",
-        "aiv-delivery.net",
+        "pv-cdn.net",
         "media-amazon.com",
+        "aiv-delivery.net",
         "primevideo.com",
-        "pv-cdn.net"
+        "amazonvideo.com",
+        "aiv-cdn.net"
       ]
     }
   ],

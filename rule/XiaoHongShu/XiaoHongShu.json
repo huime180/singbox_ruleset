@@ -2,10 +2,10 @@
   "rules": [
     {
       "domain_suffix": [
-        "xiaohongshu.com",
-        "fengkongcloud.com",
+        "xhscdn.com",
         "xhscdn.net",
-        "xhscdn.com"
+        "fengkongcloud.com",
+        "xiaohongshu.com"
       ]
     }
   ],

@@ -2,9 +2,9 @@
   "rules": [
     {
       "domain_suffix": [
-        "lppz.com",
         "lppzimg.com",
-        "517lppz.com"
+        "517lppz.com",
+        "lppz.com"
       ]
     }
   ],

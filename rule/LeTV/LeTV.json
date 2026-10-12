@@ -2,19 +2,19 @@
   "rules": [
     {
       "domain_suffix": [
-        "sanguowudi.com",
-        "lelecdn.com",
-        "lecloud.com",
         "le.com",
-        "letv.com",
-        "letvcdn.com",
-        "lemall.com",
+        "lelecdn.com",
         "letvlive.com",
-        "videougc.com",
+        "sanguowudi.com",
+        "lemall.com",
         "letv8.com",
+        "lecloud.com",
         "letvcloud.com",
+        "letvstore.com",
+        "letv.com",
+        "videougc.com",
         "letvimg.com",
-        "letvstore.com"
+        "letvcdn.com"
       ]
     }
   ],

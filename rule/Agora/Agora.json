@@ -2,8 +2,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "agoralab.co",
         "agoraio.cn",
+        "agoralab.co",
         "agora.io"
       ]
     }

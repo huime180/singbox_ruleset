@@ -2,10 +2,10 @@
   "rules": [
     {
       "domain_suffix": [
-        "sonyentertainmentnetwork.com",
         "playstation.com",
+        "playstation.net",
         "playstationnetwork.com",
-        "playstation.net"
+        "sonyentertainmentnetwork.com"
       ]
     }
   ],

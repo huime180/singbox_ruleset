@@ -2,8 +2,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "hkgolden.com",
-        "hkgolden.media"
+        "hkgolden.media",
+        "hkgolden.com"
       ]
     }
   ],

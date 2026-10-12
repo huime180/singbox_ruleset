@@ -2,8 +2,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "wanfangdata.com.cn",
-        "wf.pub"
+        "wf.pub",
+        "wanfangdata.com.cn"
       ]
     }
   ],

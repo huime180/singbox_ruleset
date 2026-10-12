@@ -2,12 +2,12 @@
   "rules": [
     {
       "domain_suffix": [
-        "akamaized.net",
-        "akamaiedge.net",
         "akamaistream.net",
-        "akamai.com",
         "akamai.net",
-        "akamaihd.net"
+        "akamaihd.net",
+        "akamaiedge.net",
+        "akamai.com",
+        "akamaized.net"
       ]
     }
   ],

@@ -2,11 +2,11 @@
   "rules": [
     {
       "domain_suffix": [
-        "oreilly.review",
-        "oreilly.com",
-        "oreillystatic.com",
         "oreilly.com.cn",
+        "oreilly.review",
+        "oreillystatic.com",
         "orl.ly",
+        "oreilly.com",
         "oreil.ly"
       ]
     }

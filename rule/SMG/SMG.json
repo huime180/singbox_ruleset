@@ -2,10 +2,10 @@
   "rules": [
     {
       "domain_suffix": [
+        "sava.sh.cn",
         "cptn.tv",
-        "smg.sh.cn",
         "smg.cn",
-        "sava.sh.cn"
+        "smg.sh.cn"
       ]
     }
   ],

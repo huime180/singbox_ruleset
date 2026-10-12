@@ -2,10 +2,10 @@
   "rules": [
     {
       "domain": [
-        "edge.api.brightcove.com",
         "content.jwplatform.com",
-        "videos-f.jwpsrv.com",
-        "bcbolt446c5271-a.akamaihd.net"
+        "edge.api.brightcove.com",
+        "bcbolt446c5271-a.akamaihd.net",
+        "videos-f.jwpsrv.com"
       ],
       "domain_suffix": [
         "encoretvb.com"

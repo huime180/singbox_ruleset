@@ -2,10 +2,10 @@
   "rules": [
     {
       "domain_suffix": [
-        "v1zhushou.com",
         "tuijianxitong.cn",
+        "aihero100.com",
         "4paradigm.com",
-        "aihero100.com"
+        "v1zhushou.com"
       ]
     }
   ],

@@ -2,10 +2,10 @@
   "rules": [
     {
       "domain_suffix": [
-        "cdnpure.com",
         "apkpure.com",
-        "pureapk.com",
-        "winudf.com"
+        "cdnpure.com",
+        "winudf.com",
+        "pureapk.com"
       ]
     }
   ],

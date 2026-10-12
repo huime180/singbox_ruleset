@@ -3,14 +3,14 @@
     {
       "domain_suffix": [
         "nicovideo.jp",
-        "nicomanga.jp",
-        "nimg.jp",
-        "socdm.com",
-        "simg.jp",
         "dmc.nico",
-        "niconico.com",
         "nicodic.jp",
-        "nicoseiga.jp"
+        "nicomanga.jp",
+        "socdm.com",
+        "nimg.jp",
+        "nicoseiga.jp",
+        "simg.jp",
+        "niconico.com"
       ]
     }
   ],

@@ -2,8 +2,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "sndcdn.com",
         "p-cdn.us",
+        "sndcdn.com",
         "soundcloud.com"
       ]
     }

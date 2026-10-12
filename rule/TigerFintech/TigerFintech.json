@@ -2,25 +2,25 @@
   "rules": [
     {
       "domain_suffix": [
-        "play-analytics.com",
-        "zhijianfengyi.com",
-        "tigerbrokers.net",
-        "tigr.link",
-        "laohu8.com",
         "itigergrowtha.com",
-        "tigerbbs.cn",
-        "iotaskyty.com",
-        "xiaohu8.com",
+        "tigr.link",
+        "tigerbrokers.net",
         "tigerbbs.com",
-        "ftfast.com",
-        "tigerfintech.com",
         "itiger.com",
-        "itigerup.com",
-        "iotaskyt.com",
-        "tbdesk.com",
+        "play-analytics.com",
         "skytigris.cn",
+        "zhijianfengyi.com",
+        "laohu8.com",
+        "xiaohu8.com",
+        "itigerup.com",
+        "tigerfintech.com",
+        "iotaskyt.com",
+        "tigertcp.cn",
+        "ftfast.com",
+        "tigerbbs.cn",
+        "tbdesk.com",
         "zhijianfengyi.cn",
-        "tigertcp.cn"
+        "iotaskyty.com"
       ]
     }
   ],

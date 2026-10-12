@@ -2,8 +2,8 @@
   "rules": [
     {
       "domain": [
-        "account.synology.com",
         "sns.synology.com",
+        "account.synology.com",
         "global.quickconnect.cn"
       ],
       "domain_suffix": [

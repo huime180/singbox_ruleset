@@ -2,8 +2,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "moov.hk",
-        "mtg.now.com"
+        "mtg.now.com",
+        "moov.hk"
       ]
     }
   ],

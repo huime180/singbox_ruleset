@@ -7,14 +7,14 @@
         "espn.hb.omtrdc.net"
       ],
       "domain_suffix": [
-        "dtci.technology",
         "espnqa.com",
-        "watchespn.com",
-        "espncdn.com",
-        "dtci.co",
-        "espn.co.uk",
         "espn.com",
-        "espn.net"
+        "espn.co.uk",
+        "espncdn.com",
+        "watchespn.com",
+        "espn.net",
+        "dtci.technology",
+        "dtci.co"
       ]
     }
   ],

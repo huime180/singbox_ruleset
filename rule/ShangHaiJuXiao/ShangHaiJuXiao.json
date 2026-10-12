@@ -2,10 +2,10 @@
   "rules": [
     {
       "domain_suffix": [
-        "mediav.com",
         "kuaishuru.net",
-        "mvad.com",
         "bubuying.net",
+        "mvad.com",
+        "mediav.com",
         "mdvdns.com"
       ]
     }

@@ -2,25 +2,25 @@
   "rules": [
     {
       "domain_suffix": [
-        "adidas.nl",
-        "adidas.cz",
-        "adidas.dk",
-        "adidas.ru",
-        "adidas.at",
-        "adidas.hu",
-        "adidas.de",
-        "adidas.pl",
-        "adidas.ie",
-        "adidas.com.tw",
-        "adidas.se",
-        "adidas.ch",
-        "adidas.it",
-        "adidas.com.cn",
         "adidas.co.uk",
+        "adidas.at",
+        "adidas.nl",
+        "adidas.dk",
+        "adidas.com.cn",
         "adidas.com",
+        "adidas.ru",
+        "adidas.ie",
+        "adidas.hu",
+        "adidas.pl",
+        "adidas.co.in",
+        "adidas.cz",
         "adidas.com.sa",
+        "adidas.se",
+        "adidas.de",
         "adidas.be",
-        "adidas.co.in"
+        "adidas.com.tw",
+        "adidas.ch",
+        "adidas.it"
       ]
     }
   ],

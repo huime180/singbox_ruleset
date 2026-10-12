@@ -2,20 +2,20 @@
   "rules": [
     {
       "domain_suffix": [
-        "intellij.org",
-        "kotlinlang.org",
-        "jetbrains.net",
-        "jetbrains.ai",
-        "intellij.com",
         "jetbrains.io",
-        "grazie.ai",
-        "kotlinconf.com",
+        "datalore.io",
         "jetbrains.org",
-        "intellij.net",
+        "kotlinconf.com",
         "jetbrains.com",
         "jetbrains.space",
-        "datalore.io",
-        "jetbrains.team"
+        "grazie.ai",
+        "kotlinlang.org",
+        "intellij.org",
+        "intellij.net",
+        "jetbrains.team",
+        "intellij.com",
+        "jetbrains.ai",
+        "jetbrains.net"
       ]
     }
   ],

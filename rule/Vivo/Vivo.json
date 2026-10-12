@@ -2,19 +2,19 @@
   "rules": [
     {
       "domain_suffix": [
-        "vivosjpt.com",
-        "vivotc.com",
-        "vivo.com.cn",
+        "vsearch.club",
+        "bbk.com",
+        "iqoo.com",
         "funtouchos.com",
         "vivo.cn",
+        "vivosjpt.com",
+        "vivotc.com",
         "vmic.xyz",
-        "vsearch.club",
-        "iqoo.com",
-        "bbktel.com.cn",
         "vivo.xyz",
+        "bbktel.com.cn",
         "vivoglobal.com",
-        "bbk.com",
         "gdbbk.com",
+        "vivo.com.cn",
         "vivo.com"
       ]
     }

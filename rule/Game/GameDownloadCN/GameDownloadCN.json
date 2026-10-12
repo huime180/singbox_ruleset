@@ -2,20 +2,20 @@
   "rules": [
     {
       "domain": [
-        "epicgames-download1-1251447533.file.myqcloud.com",
+        "xz.pphimalayanrt.com",
         "trts.baishancdnx.cn",
-        "dl.delivery.mp.microsoft.com",
-        "st.dl.eccdnx.com",
-        "cdn-ws.content.steamchina.com",
+        "st.dl.bscstorage.net",
         "cdn-qc.content.steamchina.com",
         "assets1.xboxlive.cn",
-        "dl.steam.clngaa.com",
-        "st.dl.bscstorage.net",
         "tlu.dl.delivery.mp.microsoft.com",
-        "xz.pphimalayanrt.com",
-        "uplaypc-s-ubisoft.cdn.ubionline.com.cn",
-        "steampipe.steamcontent.tnkjmec.com",
         "cdn-ali.content.steamchina.com",
+        "cdn-ws.content.steamchina.com",
+        "dl.steam.clngaa.com",
+        "st.dl.eccdnx.com",
+        "uplaypc-s-ubisoft.cdn.ubionline.com.cn",
+        "dl.delivery.mp.microsoft.com",
+        "epicgames-download1-1251447533.file.myqcloud.com",
+        "steampipe.steamcontent.tnkjmec.com",
         "assets2.xboxlive.cn"
       ],
       "domain_suffix": [

@@ -8,23 +8,23 @@
         "synology"
       ],
       "domain_suffix": [
-        "familyds.com",
-        "myds.com",
         "familyds.net",
-        "dsmunas.com",
-        "diskstation.me",
-        "familyds.org",
         "i234.me",
-        "dscloud.mobi",
+        "myds.com",
         "quickconnect.to",
-        "dscloud.me",
+        "familyds.com",
+        "diskstation.me",
+        "dsmunas.net",
+        "dsmunas.org",
         "synology.cn",
+        "synology.com",
+        "dsmunas.com",
         "synology.me",
         "synodns.com",
+        "dscloud.me",
+        "familyds.org",
         "dscloud.biz",
-        "dsmunas.org",
-        "synology.com",
-        "dsmunas.net"
+        "dscloud.mobi"
       ]
     }
   ],

@@ -2,9 +2,9 @@
   "rules": [
     {
       "domain_suffix": [
+        "xiami.net",
         "xiami.com",
-        "xiami.fm",
-        "xiami.net"
+        "xiami.fm"
       ]
     }
   ],

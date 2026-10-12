@@ -2,12 +2,12 @@
   "rules": [
     {
       "domain_suffix": [
-        "oneplus.net",
-        "opstatics.com",
         "oneplusbbs.com",
-        "oneplus.cn",
-        "oneplus.com",
         "oneplusmobile.com",
+        "oneplus.cn",
+        "opstatics.com",
+        "oneplus.net",
+        "oneplus.com",
         "h2os.com"
       ]
     }

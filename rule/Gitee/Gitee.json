@@ -2,8 +2,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "gitee.com",
-        "gitee.io"
+        "gitee.io",
+        "gitee.com"
       ]
     }
   ],

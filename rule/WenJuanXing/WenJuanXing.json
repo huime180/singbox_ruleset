@@ -2,10 +2,10 @@
   "rules": [
     {
       "domain_suffix": [
-        "sojump.com",
-        "wjx.cn",
+        "wjx.top",
         "wjx.com",
-        "wjx.top"
+        "wjx.cn",
+        "sojump.com"
       ]
     }
   ],

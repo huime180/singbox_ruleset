@@ -2,10 +2,10 @@
   "rules": [
     {
       "domain_suffix": [
-        "6park.com",
+        "6parkbbs.com",
         "6parknews.com",
-        "cool18.com",
-        "6parkbbs.com"
+        "6park.com",
+        "cool18.com"
       ]
     }
   ],

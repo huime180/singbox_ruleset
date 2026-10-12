@@ -5,9 +5,9 @@
         "www.googleapis.com"
       ],
       "domain_suffix": [
-        "googleusercontent.com",
-        "googledrive.com",
         "drive.google.com",
+        "googledrive.com",
+        "googleusercontent.com",
         "docs.google.com"
       ]
     },

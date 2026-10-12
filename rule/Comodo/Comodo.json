@@ -2,9 +2,9 @@
   "rules": [
     {
       "domain_suffix": [
+        "comodo.com",
         "comodoca.com",
         "comodoca3.com",
-        "comodo.com",
         "comodoca2.com",
         "comodoca4.com"
       ]

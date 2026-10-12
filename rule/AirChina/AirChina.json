@@ -2,8 +2,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "airchina.com.cn",
-        "airchinacargo.com"
+        "airchinacargo.com",
+        "airchina.com.cn"
       ]
     }
   ],

@@ -2,14 +2,14 @@
   "rules": [
     {
       "domain_suffix": [
-        "360in.com",
-        "yipai.info",
         "camera360.com",
         "ypjc.cloud",
+        "52photo.com",
+        "yipai.info",
         "c360dn.com",
         "saladvideo.com",
-        "yipai360.com",
-        "52photo.com"
+        "360in.com",
+        "yipai360.com"
       ]
     }
   ],

@@ -2,9 +2,9 @@
   "rules": [
     {
       "domain_suffix": [
-        "slideshare.net",
         "slideshare.com",
-        "slidesharecdn.com"
+        "slidesharecdn.com",
+        "slideshare.net"
       ]
     }
   ],

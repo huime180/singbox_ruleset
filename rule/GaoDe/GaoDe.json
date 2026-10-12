@@ -3,14 +3,14 @@
     {
       "domain_suffix": [
         "autonavi.com",
-        "amapauto.com",
-        "a-map.link",
-        "a-map.cn",
-        "gaode.com",
-        "amap.com",
         "a-map.co",
         "anav.com",
-        "a-map.vip"
+        "gaode.com",
+        "a-map.vip",
+        "a-map.cn",
+        "amapauto.com",
+        "a-map.link",
+        "amap.com"
       ]
     }
   ],

@@ -2,11 +2,11 @@
   "rules": [
     {
       "domain_suffix": [
-        "nutstore.net",
-        "nutstorehq.com",
         "jianguoyun.com",
-        "gdfgq.club",
-        "jianguopuzi.com"
+        "nutstorehq.com",
+        "jianguopuzi.com",
+        "nutstore.net",
+        "gdfgq.club"
       ]
     }
   ],

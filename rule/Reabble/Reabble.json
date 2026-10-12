@@ -2,8 +2,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "reabble.cn",
-        "reabble.com"
+        "reabble.com",
+        "reabble.cn"
       ]
     }
   ],

@@ -2,8 +2,8 @@
   "rules": [
     {
       "domain": [
-        "mytvsuperlimited.hb.omtrdc.net",
-        "mytvsuperlimited.sc.omtrdc.net"
+        "mytvsuperlimited.sc.omtrdc.net",
+        "mytvsuperlimited.hb.omtrdc.net"
       ],
       "domain_keyword": [
         "rthklive",

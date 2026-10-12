@@ -5,12 +5,12 @@
         "bahamut.akamaized.net"
       ],
       "domain_suffix": [
-        "bahamut.com.tw",
-        "gvt1.com",
-        "digicert.com",
         "hinet.net",
-        "gamer.com.tw",
-        "viblast.com"
+        "gvt1.com",
+        "bahamut.com.tw",
+        "digicert.com",
+        "viblast.com",
+        "gamer.com.tw"
       ]
     }
   ],

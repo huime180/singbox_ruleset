@@ -2,22 +2,22 @@
   "rules": [
     {
       "domain_suffix": [
-        "nytlog.com",
-        "nyt.net",
-        "timestalks.com",
-        "nytimg.com",
-        "nytstyle.com",
-        "d3q1qj9jzsu8nw.cloudfront.net",
-        "tynt.com",
-        "nytcn.me",
-        "nytimes.com",
-        "d1f1eryiqyjs0r.cloudfront.net",
-        "nytchina.com",
         "nyti.ms",
-        "d3lar09xbwlsge.cloudfront.net",
+        "nytchina.com",
+        "tynt.com",
         "nytco.com",
+        "d3lar09xbwlsge.cloudfront.net",
+        "nyt.net",
+        "d1f1eryiqyjs0r.cloudfront.net",
         "nyt.com",
-        "dc8xl0ndzn2cb.cloudfront.net"
+        "d3q1qj9jzsu8nw.cloudfront.net",
+        "timestalks.com",
+        "nytstyle.com",
+        "nytimes.com",
+        "nytcn.me",
+        "nytlog.com",
+        "dc8xl0ndzn2cb.cloudfront.net",
+        "nytimg.com"
       ]
     }
   ],

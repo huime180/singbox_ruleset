@@ -2,8 +2,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "cns.com.cn",
         "ecns.cn",
+        "cns.com.cn",
         "chinanews.com.cn",
         "chinanews.com"
       ]

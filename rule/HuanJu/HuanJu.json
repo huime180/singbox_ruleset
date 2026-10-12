@@ -2,26 +2,26 @@
   "rules": [
     {
       "domain_suffix": [
-        "yy.com.cn",
-        "yyclouds.com",
-        "huanju.cn",
-        "hiido.cn",
-        "yystatic.com",
-        "5253.com",
-        "yy.com",
-        "blogchina.org",
-        "duowan.cn",
-        "huanjuyun.com",
-        "c19ce66ff87253fdda68740edcb7ce3b.v.smtcdns.net",
         "yygamedev.com",
-        "hiido.com",
-        "chinaduo.com",
-        "zhiniu8.com",
         "huanju.net",
         "dwstatic.com",
         "hiido.net",
+        "yy.com",
+        "huanjuyun.com",
+        "duowan.com.cn",
+        "yystatic.com",
+        "duowan.cn",
+        "hiido.cn",
+        "yyclouds.com",
+        "huanju.cn",
+        "hiido.com",
+        "yy.com.cn",
         "duowan.com",
-        "duowan.com.cn"
+        "zhiniu8.com",
+        "chinaduo.com",
+        "blogchina.org",
+        "5253.com",
+        "c19ce66ff87253fdda68740edcb7ce3b.v.smtcdns.net"
       ]
     }
   ],

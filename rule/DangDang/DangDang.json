@@ -2,8 +2,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "dangdang.com",
-        "ddimg.cn"
+        "ddimg.cn",
+        "dangdang.com"
       ]
     }
   ],

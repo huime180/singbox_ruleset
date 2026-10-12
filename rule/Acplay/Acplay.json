@@ -2,8 +2,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "dandanplay.com",
-        "acplay.net"
+        "acplay.net",
+        "dandanplay.com"
       ]
     }
   ],

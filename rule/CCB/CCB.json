@@ -2,24 +2,24 @@
   "rules": [
     {
       "domain_suffix": [
-        "ccbhome.net",
-        "ccbseoul.com",
-        "ccb.com.cn",
         "ccblife-test.com.cn",
-        "ccbhome.cn",
-        "ccbfutures.cn",
-        "ccbleasing.com",
-        "ccbxt.com",
-        "ccb.com",
-        "ccbfund.com",
-        "ccbtrust.com.cn",
-        "ccbfund.com.cn",
+        "ccbseoul.com",
         "ccb.cn",
-        "ccb-life.com.cn",
-        "ccbintl.com.hk",
-        "ccbfund.cn",
+        "ccbfutures.com",
+        "ccbfund.com",
+        "ccb.com",
         "ccbcos.com",
-        "ccbfutures.com"
+        "ccb.com.cn",
+        "ccbintl.com.hk",
+        "ccbleasing.com",
+        "ccbfutures.cn",
+        "ccbhome.net",
+        "ccbtrust.com.cn",
+        "ccbxt.com",
+        "ccbfund.cn",
+        "ccbfund.com.cn",
+        "ccb-life.com.cn",
+        "ccbhome.cn"
       ]
     }
   ],

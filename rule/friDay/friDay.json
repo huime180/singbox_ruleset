@@ -2,8 +2,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "friday.tw",
-        "fetnet.net"
+        "fetnet.net",
+        "friday.tw"
       ]
     }
   ],

@@ -2,13 +2,13 @@
   "rules": [
     {
       "domain_suffix": [
+        "sao.cn",
         "luojilab.com",
-        "saolife.com",
+        "igetget.cn",
+        "biji.com",
         "ddmogo.com",
         "igetget.com",
-        "sao.cn",
-        "biji.com",
-        "igetget.cn",
+        "saolife.com",
         "mogoo.com"
       ]
     }

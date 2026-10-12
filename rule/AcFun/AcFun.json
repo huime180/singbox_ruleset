@@ -2,10 +2,10 @@
   "rules": [
     {
       "domain_suffix": [
-        "acfun.com",
         "acfun.cn",
-        "aixifan.com",
-        "acfun.tv"
+        "acfun.tv",
+        "acfun.com",
+        "aixifan.com"
       ]
     }
   ],

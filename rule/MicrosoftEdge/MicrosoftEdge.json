@@ -2,10 +2,10 @@
   "rules": [
     {
       "domain": [
-        "iecvlist.microsoft.com",
         "msedge.api.cdp.microsoft.com",
-        "edge.microsoft.com",
-        "edge.activity.windows.com"
+        "edge.activity.windows.com",
+        "iecvlist.microsoft.com",
+        "edge.microsoft.com"
       ]
     }
   ],

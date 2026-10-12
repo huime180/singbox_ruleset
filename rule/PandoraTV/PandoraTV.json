@@ -2,8 +2,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "pandora.tv",
-        "kmplayer.com"
+        "kmplayer.com",
+        "pandora.tv"
       ]
     }
   ],

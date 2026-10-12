@@ -3,17 +3,17 @@
     {
       "domain_suffix": [
         "heroku.co",
-        "heroku-charge.com",
-        "herokucdn.com",
-        "codeish.co",
-        "herokuapp.com",
         "codeish.io",
-        "codei.sh",
         "heroku.com",
-        "herokucharge.com",
-        "heroku.me",
+        "herokucdn.com",
         "heroku-app.com",
-        "herokussl.com"
+        "heroku.me",
+        "herokuapp.com",
+        "herokucharge.com",
+        "herokussl.com",
+        "codeish.co",
+        "codei.sh",
+        "heroku-charge.com"
       ]
     }
   ],
