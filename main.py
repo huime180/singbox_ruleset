@@ -330,6 +330,72 @@ def translate_rule():
 
     logging.info(f"finish translating clash rules")
 
+# 上游的分类索引：emoji 分类名 + 规则目录链接表
+source_index_url = "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/README.md"
+
+def fetch_source_index():
+    """获取上游分类索引原文；优先使用本地覆盖，其次使用已下载的上游 zip 内的文件。"""
+    local_file = (os.environ.get('SOURCE_INDEX_FILE') or '').strip()
+    if local_file:
+        if not os.path.exists(local_file):
+            logging.critical('SOURCE_INDEX_FILE not found: %s', local_file)
+            exit(1)
+        logging.info('using local index file %s', local_file)
+        with open(local_file, 'r', encoding='utf-8') as file:
+            return file.read()
+
+    # 上游仓库 zip 内本身就带这份索引，优先复用，避免额外网络请求
+    zip_index = os.path.join(
+        current_dir, 'ios_rule_script/ios_rule_script-master/rule/Clash/README.md')
+    if os.path.exists(zip_index):
+        logging.info('using index from source repo zip %s', zip_index)
+        with open(zip_index, 'r', encoding='utf-8') as file:
+            return file.read()
+
+    url = (os.environ.get('SOURCE_INDEX_URL') or '').strip() or source_index_url
+    logging.info('downloading rule index %s', url)
+    response = requests.get(url, headers=headers)
+    if response.status_code != 200:
+        logging.warning('downloading rule index error, error code %s', response.status_code)
+        return None
+    return response.text
+
+def build_index():
+    """把上游分类索引改写为指向本仓库，输出 rule/README.md。"""
+    text = fetch_source_index()
+    if not text:
+        logging.warning('rule index unavailable, skip generating rule/README.md')
+        return
+    target_root = os.path.join(current_dir, 'rule')
+    pattern = re.compile(
+        r'https://github\.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash/([^)\s]*)')
+
+    missing = set()
+    replaced = [0]
+
+    def rewrite(matched):
+        # rel 可能带子目录，例如 Game/GameDownloadCN、Cloud/TencentCloud
+        rel = matched.group(1).strip('/')
+        if not rel or not os.path.isdir(os.path.join(target_root, *rel.split('/'))):
+            missing.add(rel)
+            return matched.group(0)
+        replaced[0] += 1
+        return 'https://github.com/{0}/tree/main/rule/{1}'.format(repo_slug, rel)
+
+    body = pattern.sub(rewrite, text)
+    header = ('# 规则分类索引\n\n'
+              '本索引与上游 [blackmatrix7/ios_rule_script]'
+              '(https://github.com/blackmatrix7/ios_rule_script) 的分类保持一致，'
+              '链接已指向本仓库对应的规则目录。\n\n'
+              '每个目录下的 `README.md` 含有该规则的 Github / CDN 直链与规则统计。\n\n')
+    index_file = os.path.join(target_root, 'README.md')
+    with open(index_file, 'w', encoding='utf-8') as file:
+        file.write(header + body)
+    logging.info('rule index generated: %s links rewritten, %s entries not found here',
+                 replaced[0], len(missing))
+    for rel in sorted(missing)[:10]:
+        logging.warning('rule index entry not found in this repo: %s', rel)
+
 extra_surge_conf = {}
 def translate_extra():
     logging.info('translating extra surge rule...')
@@ -412,6 +478,7 @@ def main():
     download_source_repo()
     translate_rule()
     translate_extra()
+    build_index()
     post_clean()
 
 if __name__ == "__main__":
