@@ -63,7 +63,9 @@ CDN 加速可将域名替换为 `https://cdn.jsdelivr.net/gh/huime180/singbox_ru
 1. 下载上游 Clash 规则；
 2. `main.py` 递归转换为 sing-box 的 JSON 规则；
 3. `compile.sh` 调用 `sing-box rule-set compile` 编译为 `.srs`；
-4. 由 `github-actions[bot]` 提交并推送 `rule/` 目录。
+4. 由 `github-actions[bot]` 提交并推送 `rule/`（源码与提交历史一并保留在 `main`）。
+
+> 构建产生的中间文件（`venv/`、`asn/`、`ios_rule_script/` 等）已由 `.gitignore` 排除，不会入库。
 
 ### 可选 Secret
 

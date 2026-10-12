@@ -58,15 +58,18 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -Eeuo pipefail
-          # 中间产物不进入仓库
           rm -rf venv __pycache__
-          # 丢弃历史，只保留本次生成的 rule/（含 .json / .srs / README.md）
-          rm -rf .git
-          git init -b main
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add rule
-          git commit -m "chore: update rule-set $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
           # 直接使用带 token 的地址推送，避免依赖凭据助手
-          git remote add origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git"
-          git push --force origin main
+          git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git"
+          # 提交 rule/ 与源码；构建中间产物由 .gitignore 排除
+          git add -A
+          if git diff --cached --quiet; then
+            echo "no changes to commit"
+            exit 0
+          fi
+          git commit -m "chore: update rule-set $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+          # 并发场景下先同步远端，避免非快进推送被拒
+          git pull --rebase --autostash origin main
+          git push origin main
