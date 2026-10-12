@@ -119,20 +119,21 @@ class RuleSet(object):
     def __init__(self, domain, domain_keyword, domain_suffix, ip_cidr, process_name):
         self.version = 2
         self.rules = list()
+        # 去重后排序，保证每次生成的 json/.srs 字节一致，避免每日构建产生无意义 diff
         if len(domain) != 0 or len(domain_keyword) != 0 or len(domain_suffix) != 0 or len(ip_cidr) != 0:
             rule = dict()
             if len(domain) != 0:
-                rule['domain'] = list(set(domain))
+                rule['domain'] = sorted(set(domain))
             if len(domain_keyword) != 0:
-                rule['domain_keyword'] = list(set(domain_keyword))
+                rule['domain_keyword'] = sorted(set(domain_keyword))
             if len(domain_suffix) != 0:
-                rule['domain_suffix'] = list(set(domain_suffix))
+                rule['domain_suffix'] = sorted(set(domain_suffix))
             if len(ip_cidr) != 0:
-                rule['ip_cidr'] = list(set(ip_cidr))
+                rule['ip_cidr'] = sorted(set(ip_cidr))
             self.rules.append(rule)
         if len(process_name) != 0:
             rule = dict()
-            rule['process_name'] = list(set(process_name))
+            rule['process_name'] = sorted(set(process_name))
             self.rules.append(rule)
 
 skip_dirs = {'CGB'}
