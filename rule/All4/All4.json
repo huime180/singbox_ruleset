@@ -2,8 +2,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "channel4.com",
-        "c4assets.com"
+        "c4assets.com",
+        "channel4.com"
       ]
     }
   ],

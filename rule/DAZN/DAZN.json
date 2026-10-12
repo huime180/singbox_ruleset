@@ -5,23 +5,23 @@
         "voddazn"
       ],
       "domain_suffix": [
-        "d151l6v8er5bdm.cloudfront.net",
-        "dca-ll-livedazn-dznlivejp.s.llnwi.net",
-        "sentry.io",
         "control.kochava.com",
+        "d151l6v8er5bdm.cloudfront.net",
+        "d1sgwhnao7452x.cloudfront.net",
         "dazn-api.com",
+        "dazn.com",
         "dazndn.com",
+        "dc2-vodhls-perform.secure.footprint.net",
+        "dca-ll-livedazn-dznlivejp.s.llnwi.net",
+        "dca-ll-voddazn-dznvodjp.s.llnwi.net",
+        "dcalivedazn.akamaized.net",
         "dcblivedazn.akamaized.net",
         "indazn.com",
-        "dcalivedazn.akamaized.net",
-        "dc2-vodhls-perform.secure.footprint.net",
-        "d1sgwhnao7452x.cloudfront.net",
         "indaznlab.com",
         "intercom.io",
-        "dazn.com",
-        "s.yimg.jp",
         "logx.optimizely.com",
-        "dca-ll-voddazn-dznvodjp.s.llnwi.net"
+        "s.yimg.jp",
+        "sentry.io"
       ]
     }
   ],

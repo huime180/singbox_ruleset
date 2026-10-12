@@ -2,8 +2,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "linguee.com",
-        "deepl.com"
+        "deepl.com",
+        "linguee.com"
       ]
     }
   ],

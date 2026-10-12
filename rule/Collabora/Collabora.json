@@ -2,9 +2,9 @@
   "rules": [
     {
       "domain_suffix": [
-        "collabora.org",
-        "collabora.com",
         "collabora.co.uk",
+        "collabora.com",
+        "collabora.org",
         "collaboraoffice.com"
       ]
     }

@@ -2,8 +2,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "italkbb.com",
         "api.tv.colnv.com",
+        "italkbb.com",
         "italkbbtv.com"
       ]
     },

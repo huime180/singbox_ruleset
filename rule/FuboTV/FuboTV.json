@@ -2,8 +2,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "fubotv.com",
-        "fubo.tv"
+        "fubo.tv",
+        "fubotv.com"
       ]
     }
   ],

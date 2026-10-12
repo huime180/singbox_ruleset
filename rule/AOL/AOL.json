@@ -2,10 +2,10 @@
   "rules": [
     {
       "domain_suffix": [
-        "aol.co.uk",
-        "aolnews.com",
         "aol.ca",
-        "aol.com"
+        "aol.co.uk",
+        "aol.com",
+        "aolnews.com"
       ]
     }
   ],

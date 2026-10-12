@@ -2,8 +2,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "vikacg.com",
-        "picjs.xyz"
+        "picjs.xyz",
+        "vikacg.com"
       ]
     }
   ],

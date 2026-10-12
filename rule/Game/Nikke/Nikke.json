@@ -2,12 +2,12 @@
   "rules": [
     {
       "domain_suffix": [
-        "nikke-kr.com",
-        "intlgame.com",
-        "iegcom.com",
         "anticheatexpert.com",
         "centauriglobal.com",
-        "gamepass.com"
+        "gamepass.com",
+        "iegcom.com",
+        "intlgame.com",
+        "nikke-kr.com"
       ],
       "ip_cidr": [
         "43.152.114.31/32"

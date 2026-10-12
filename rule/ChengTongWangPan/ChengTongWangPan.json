@@ -2,9 +2,9 @@
   "rules": [
     {
       "domain_suffix": [
-        "n802.com",
-        "ctfile.net",
         "ctfile.com",
+        "ctfile.net",
+        "n802.com",
         "tv002.com"
       ]
     }

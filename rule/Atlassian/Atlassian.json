@@ -4,9 +4,9 @@
       "domain_suffix": [
         "atlassian.com",
         "bitbucket.org",
+        "statuspage.io",
         "trello.com",
-        "trellocdn.com",
-        "statuspage.io"
+        "trellocdn.com"
       ]
     }
   ],

@@ -5,9 +5,9 @@
         "live-patreon-marketing.pantheonsite.io"
       ],
       "domain_suffix": [
-        "patreonusercontent.com",
         "patreon.com",
-        "patreoncommunity.com"
+        "patreoncommunity.com",
+        "patreonusercontent.com"
       ]
     }
   ],

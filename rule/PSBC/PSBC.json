@@ -2,8 +2,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "psbc.com",
         "95580.net",
+        "psbc.com",
         "psbcoa.com.cn"
       ]
     }

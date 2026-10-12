@@ -2,16 +2,16 @@
   "rules": [
     {
       "domain_suffix": [
-        "1337xx.to",
-        "1337x.to",
-        "1337x.is",
-        "1337xto.to",
-        "x1337x.ws",
-        "1337x.st",
         "1337x.gd",
-        "x1337x.se",
+        "1337x.is",
+        "1337x.st",
+        "1337x.to",
         "1337x.tw",
-        "x1337x.eu"
+        "1337xto.to",
+        "1337xx.to",
+        "x1337x.eu",
+        "x1337x.se",
+        "x1337x.ws"
       ]
     }
   ],

@@ -2,14 +2,14 @@
   "rules": [
     {
       "domain_suffix": [
-        "llnw.com",
-        "llnwd.net",
-        "llnw-trials.com",
         "delvenetworks.com",
-        "llnwi.net",
         "limelight.com",
+        "lldns.net",
+        "llnw-trials.com",
+        "llnw.com",
         "llnw.net",
-        "lldns.net"
+        "llnwd.net",
+        "llnwi.net"
       ]
     }
   ],

@@ -5,9 +5,9 @@
         "amp.akamaized.net"
       ],
       "domain_suffix": [
-        "ampproject.net",
         "amp.dev",
         "ampproject.com",
+        "ampproject.net",
         "ampproject.org"
       ]
     }

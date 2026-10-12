@@ -2,8 +2,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "doh.360.cn",
         "dns.alidns.com",
+        "doh.360.cn",
         "doh.pub"
       ],
       "ip_cidr": [

@@ -2,11 +2,11 @@
   "rules": [
     {
       "domain_suffix": [
-        "wolai.ren",
-        "woyun.work",
-        "wolai.com",
         "wol.tv",
-        "wostatic.cn"
+        "wolai.com",
+        "wolai.ren",
+        "wostatic.cn",
+        "woyun.work"
       ]
     }
   ],

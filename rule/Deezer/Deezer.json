@@ -2,8 +2,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "dzcdn.net",
-        "deezer.com"
+        "deezer.com",
+        "dzcdn.net"
       ]
     }
   ],

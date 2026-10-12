@@ -2,10 +2,10 @@
   "rules": [
     {
       "domain_suffix": [
-        "do.co",
+        "digitalocean.com",
         "digitaloceanspaces.com",
-        "nginxconfig.io",
-        "digitalocean.com"
+        "do.co",
+        "nginxconfig.io"
       ]
     }
   ],

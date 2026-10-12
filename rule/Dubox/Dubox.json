@@ -2,8 +2,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "duboxcdn.com",
-        "dubox.com"
+        "dubox.com",
+        "duboxcdn.com"
       ]
     }
   ],

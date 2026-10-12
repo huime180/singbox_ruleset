@@ -2,11 +2,11 @@
   "rules": [
     {
       "domain_suffix": [
-        "proton.me",
-        "protonmail.com",
-        "protonstatus.com",
         "pm.me",
-        "protonmail.ch"
+        "proton.me",
+        "protonmail.ch",
+        "protonmail.com",
+        "protonstatus.com"
       ]
     }
   ],

@@ -2,19 +2,19 @@
   "rules": [
     {
       "domain_suffix": [
-        "tengkaxx.com",
-        "meituo.shop",
-        "tjckjr.com",
-        "myckjr.cn",
-        "tkckjr.com",
+        "51ckjr.com",
+        "ckjr001.cn",
         "ckjr001.com",
         "ckjryy.com",
+        "meituo.shop",
+        "myckjr.cn",
+        "myckjr.com",
         "qxckjr.com",
-        "tengkackjr.com",
-        "ckjr001.cn",
         "sxyckjr.com",
-        "51ckjr.com",
-        "myckjr.com"
+        "tengkackjr.com",
+        "tengkaxx.com",
+        "tjckjr.com",
+        "tkckjr.com"
       ]
     }
   ],

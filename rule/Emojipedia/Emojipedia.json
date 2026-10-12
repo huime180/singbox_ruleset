@@ -2,8 +2,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "worldemojiawards.com",
         "emojipedia.org",
+        "worldemojiawards.com",
         "worldemojiday.com"
       ]
     }

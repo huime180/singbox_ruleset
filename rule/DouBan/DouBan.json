@@ -2,9 +2,9 @@
   "rules": [
     {
       "domain_suffix": [
-        "doubanio.com",
+        "douban.com",
         "douban.fm",
-        "douban.com"
+        "doubanio.com"
       ]
     }
   ],

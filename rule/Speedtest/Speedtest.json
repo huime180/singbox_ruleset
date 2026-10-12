@@ -5,13 +5,13 @@
         "speedtest"
       ],
       "domain_suffix": [
-        "speedtestcustom.com",
+        "fast.com",
         "ooklaserver.net",
         "speed.cloudflare.com",
-        "speedtest.co",
         "speed.dler.io",
-        "fast.com",
-        "speedtest.net"
+        "speedtest.co",
+        "speedtest.net",
+        "speedtestcustom.com"
       ]
     }
   ],

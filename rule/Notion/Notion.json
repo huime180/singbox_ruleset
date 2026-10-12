@@ -5,11 +5,11 @@
         "http-inputs-notion.splunkcloud.com"
       ],
       "domain_suffix": [
-        "notion.site",
-        "notion.com",
         "notion-static.com",
-        "notion.so",
-        "notion.new"
+        "notion.com",
+        "notion.new",
+        "notion.site",
+        "notion.so"
       ]
     }
   ],

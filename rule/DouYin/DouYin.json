@@ -6,17 +6,17 @@
         "v5-dy-o-abtest.zjcdn.com"
       ],
       "domain_suffix": [
-        "ixigua.com",
-        "douyinstatic.com",
-        "douyinpic.com",
-        "douyinvod.com",
-        "snssdk.com",
-        "idouyinvod.com",
-        "toutiao.com",
-        "douyincdn.com",
         "amemv.com",
+        "douyincdn.com",
+        "douyinpic.com",
+        "douyinstatic.com",
+        "douyinvod.com",
+        "idouyinvod.com",
+        "ixigua.com",
         "ixiguavideo.com",
-        "pstatp.com"
+        "pstatp.com",
+        "snssdk.com",
+        "toutiao.com"
       ]
     }
   ],

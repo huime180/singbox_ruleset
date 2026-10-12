@@ -4,39 +4,39 @@
       "domain": [
         "lf16-effectcdn.byteeffecttos-g.com",
         "lf16-pkgcdn.pitaya-clientai.com",
-        "trae-api-sg.mchost.guru",
-        "p16-tiktokcdn-com.akamaized.net"
+        "p16-tiktokcdn-com.akamaized.net",
+        "trae-api-sg.mchost.guru"
       ],
       "domain_keyword": [
-        "tiktok",
-        "musical.ly"
+        "musical.ly",
+        "tiktok"
       ],
       "domain_suffix": [
-        "tiktokcdn-us.com",
-        "tiktokmusic.app",
-        "tiktokcdn.com",
-        "marscode.com",
-        "tiktokv.com",
+        "bytedapm.com",
         "bytegecko-i18n.com",
         "byteintlapi.com",
-        "isnssdk.com",
-        "snssdk.com",
-        "tiktokv.us",
-        "bytedapm.com",
-        "tiktokd.org",
-        "muscdn.com",
-        "ibytedtos.com",
-        "tiktokd.net",
-        "capcut.com",
-        "ipstatp.com",
-        "sgpstatp.com",
-        "tik-tokapi.com",
         "byteoversea.com",
-        "trae.ai",
+        "capcut.com",
+        "ibytedtos.com",
+        "ibyteimg.com",
+        "ipstatp.com",
+        "isnssdk.com",
+        "marscode.com",
+        "muscdn.com",
         "musical.ly",
-        "ttwebview.com",
+        "sgpstatp.com",
+        "snssdk.com",
+        "tik-tokapi.com",
         "tiktok.com",
-        "ibyteimg.com"
+        "tiktokcdn-us.com",
+        "tiktokcdn.com",
+        "tiktokd.net",
+        "tiktokd.org",
+        "tiktokmusic.app",
+        "tiktokv.com",
+        "tiktokv.us",
+        "trae.ai",
+        "ttwebview.com"
       ]
     },
     {

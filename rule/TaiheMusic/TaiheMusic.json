@@ -2,14 +2,14 @@
   "rules": [
     {
       "domain_suffix": [
-        "submusic.cn",
-        "youyou001.com",
-        "qianqian.com",
-        "taihe.com",
-        "dmhmusic.com",
-        "youyou.com",
         "91q.com",
-        "ttplayer.com"
+        "dmhmusic.com",
+        "qianqian.com",
+        "submusic.cn",
+        "taihe.com",
+        "ttplayer.com",
+        "youyou.com",
+        "youyou001.com"
       ]
     }
   ],

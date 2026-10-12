@@ -2,14 +2,14 @@
   "rules": [
     {
       "domain": [
-        "static-mycake.pstatic.net",
+        "d1koerlbtsmkf8.cloudfront.net",
         "d31wl6mro6753i.cloudfront.net",
-        "vstatic-mycake.pstatic.net",
-        "d1koerlbtsmkf8.cloudfront.net"
+        "static-mycake.pstatic.net",
+        "vstatic-mycake.pstatic.net"
       ],
       "domain_suffix": [
-        "cakeapp.me",
         "cake.day",
+        "cakeapp.me",
         "mycake.me"
       ]
     }

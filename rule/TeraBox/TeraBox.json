@@ -2,8 +2,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "teraboxcdn.com",
-        "terabox.com"
+        "terabox.com",
+        "teraboxcdn.com"
       ]
     }
   ],

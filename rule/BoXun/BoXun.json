@@ -2,8 +2,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "boxun.com",
-        "bowenpress.com"
+        "bowenpress.com",
+        "boxun.com"
       ]
     }
   ],

@@ -3,18 +3,18 @@
     {
       "domain_suffix": [
         "le.com",
-        "lelecdn.com",
-        "letvlive.com",
-        "sanguowudi.com",
-        "lemall.com",
-        "letv8.com",
         "lecloud.com",
-        "letvcloud.com",
-        "letvstore.com",
+        "lelecdn.com",
+        "lemall.com",
         "letv.com",
-        "videougc.com",
+        "letv8.com",
+        "letvcdn.com",
+        "letvcloud.com",
         "letvimg.com",
-        "letvcdn.com"
+        "letvlive.com",
+        "letvstore.com",
+        "sanguowudi.com",
+        "videougc.com"
       ]
     }
   ],

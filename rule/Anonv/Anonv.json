@@ -2,8 +2,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "anon-v.lol",
-        "anon-v.com"
+        "anon-v.com",
+        "anon-v.lol"
       ]
     }
   ],

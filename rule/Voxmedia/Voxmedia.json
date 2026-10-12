@@ -2,22 +2,22 @@
   "rules": [
     {
       "domain_suffix": [
+        "cstatic.net",
+        "curbed.com",
+        "eater.com",
         "funnyordie.com",
         "meridian.net",
+        "polygon.com",
         "racked.com",
+        "recode.net",
         "sbnation.com",
         "theverge.com",
-        "voxops.net",
-        "eater.com",
-        "curbed.com",
-        "cstatic.net",
-        "recode.net",
+        "vox-cdn.com",
+        "vox.com",
+        "voxcreative.com",
         "voxfieldguide.com",
         "voxmedia.com",
-        "vox-cdn.com",
-        "voxcreative.com",
-        "polygon.com",
-        "vox.com"
+        "voxops.net"
       ]
     }
   ],

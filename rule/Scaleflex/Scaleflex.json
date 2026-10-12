@@ -2,9 +2,9 @@
   "rules": [
     {
       "domain_suffix": [
-        "scaleflex.com",
         "cloudimage.io",
-        "cloudimg.io"
+        "cloudimg.io",
+        "scaleflex.com"
       ]
     }
   ],

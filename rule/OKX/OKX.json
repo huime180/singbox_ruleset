@@ -2,8 +2,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "oklink.com",
         "okex.com",
+        "oklink.com",
         "okx.com"
       ]
     }

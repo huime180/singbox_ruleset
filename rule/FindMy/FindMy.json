@@ -2,9 +2,9 @@
   "rules": [
     {
       "domain": [
-        "statici.icloud.com",
         "fmfmobile.icloud.com",
-        "fmipmobile.icloud.com"
+        "fmipmobile.icloud.com",
+        "statici.icloud.com"
       ]
     }
   ],

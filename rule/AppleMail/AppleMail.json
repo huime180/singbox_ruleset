@@ -2,8 +2,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "mail.me.com",
-        "mail.icloud.com.cn"
+        "mail.icloud.com.cn",
+        "mail.me.com"
       ]
     }
   ],

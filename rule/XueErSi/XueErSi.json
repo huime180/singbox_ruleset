@@ -2,9 +2,9 @@
   "rules": [
     {
       "domain_suffix": [
-        "xueersi.com",
         "speiyou.com",
-        "xesimg.com"
+        "xesimg.com",
+        "xueersi.com"
       ]
     }
   ],

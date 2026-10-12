@@ -2,23 +2,23 @@
   "rules": [
     {
       "domain_suffix": [
+        "9nali.com",
+        "conchdate.com",
+        "himalaya.com",
         "himalaya.cool",
         "qingxuetang.com",
-        "conchdate.com",
+        "soundconch.com",
         "tableauxmly.com",
         "xima.tv",
+        "ximalaya.com",
         "ximalaya.fm",
+        "ximalaya.tv",
+        "ximalayadata.com",
         "xmcdn.com",
         "zhishif.com",
-        "ximalaya.tv",
         "zhishinn.com",
-        "9nali.com",
-        "himalaya.com",
-        "zhishiv.com",
-        "ximalaya.com",
         "zhishiu.com",
-        "soundconch.com",
-        "ximalayadata.com"
+        "zhishiv.com"
       ]
     }
   ],

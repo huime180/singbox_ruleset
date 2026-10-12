@@ -2,25 +2,25 @@
   "rules": [
     {
       "domain_suffix": [
-        "wisestcloud.com",
-        "founderfx.com.cn",
-        "fzdzyun.com",
-        "xiezixiansheng.com",
-        "w2press.cn",
-        "fzyun.cn",
-        "founderss.cn",
-        "foundertype.com",
-        "fzyun.net",
-        "founder.com.cn",
-        "study-cloud.cn",
-        "fzdzyun.com.cn",
         "cloudpress.cn",
         "cloudpub.cn",
-        "study-cloud.com",
         "fangzhengshufa.com",
+        "founder.com.cn",
         "founderfx.cn",
+        "founderfx.com.cn",
+        "founderss.cn",
+        "foundertype.com",
         "fzdzyun.cn",
-        "newaircloud.com"
+        "fzdzyun.com",
+        "fzdzyun.com.cn",
+        "fzyun.cn",
+        "fzyun.net",
+        "newaircloud.com",
+        "study-cloud.cn",
+        "study-cloud.com",
+        "w2press.cn",
+        "wisestcloud.com",
+        "xiezixiansheng.com"
       ]
     }
   ],

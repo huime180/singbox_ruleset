@@ -2,16 +2,16 @@
   "rules": [
     {
       "domain_suffix": [
-        "v-56.com",
         "56.com",
-        "qf.com.cn",
-        "somama.com",
         "56img.com",
-        "qianfan.tv",
         "56imgs.com",
-        "vicovico.com",
+        "icaneasy.com",
         "icanvideo.com",
-        "icaneasy.com"
+        "qf.com.cn",
+        "qianfan.tv",
+        "somama.com",
+        "v-56.com",
+        "vicovico.com"
       ]
     }
   ],

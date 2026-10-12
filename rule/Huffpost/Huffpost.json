@@ -3,23 +3,23 @@
     {
       "domain_suffix": [
         "huffingtonpost.ca",
-        "huffpostbrasil.com",
-        "huffingtonpost.co.za",
-        "huffingtonpost.com.mx",
-        "huffingtonpost.es",
-        "huffingtonpost.com.au",
-        "huffingtonpost.de",
-        "huffingtonpost.jp",
-        "huffpost.com",
-        "huffingtonpost.kr",
-        "huffingtonpost.com",
-        "huffpostarabi.com",
-        "huffingtonpost.gr",
-        "huffingtonpost.it",
-        "huffpostmaghreb.com",
         "huffingtonpost.co.uk",
+        "huffingtonpost.co.za",
+        "huffingtonpost.com",
+        "huffingtonpost.com.au",
+        "huffingtonpost.com.mx",
+        "huffingtonpost.de",
+        "huffingtonpost.es",
         "huffingtonpost.fr",
-        "huffingtonpost.in"
+        "huffingtonpost.gr",
+        "huffingtonpost.in",
+        "huffingtonpost.it",
+        "huffingtonpost.jp",
+        "huffingtonpost.kr",
+        "huffpost.com",
+        "huffpostarabi.com",
+        "huffpostbrasil.com",
+        "huffpostmaghreb.com"
       ]
     }
   ],

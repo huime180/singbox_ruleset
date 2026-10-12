@@ -2,19 +2,19 @@
   "rules": [
     {
       "domain_suffix": [
-        "elemecdn.com",
+        "ele.me",
+        "ele.to",
+        "eleme.cn",
         "eleme.com.cn",
         "eleme.io",
-        "ele.to",
-        "fengniaopaotui.cn",
-        "xingxuanwaimai.com",
         "elemecdn.cn",
-        "ele.me",
-        "eleme.cn",
-        "xyzele.com",
-        "youcaishop.cn",
+        "elemecdn.com",
+        "elenet.me",
+        "fengniaopaotui.cn",
         "fengniaozhongbao.cn",
-        "elenet.me"
+        "xingxuanwaimai.com",
+        "xyzele.com",
+        "youcaishop.cn"
       ]
     }
   ],

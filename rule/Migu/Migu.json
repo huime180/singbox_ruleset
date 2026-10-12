@@ -2,8 +2,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "migu.cn",
         "cmvideo.cn",
+        "migu.cn",
         "miguvideo.com"
       ]
     }

@@ -2,12 +2,12 @@
   "rules": [
     {
       "domain_suffix": [
-        "wasu.tv",
         "hzcnc.com",
-        "wasumedia.cn",
         "hzdtv.tv",
+        "hzman.net",
         "wasu.cn",
-        "hzman.net"
+        "wasu.tv",
+        "wasumedia.cn"
       ]
     }
   ],

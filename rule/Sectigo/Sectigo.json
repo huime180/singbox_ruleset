@@ -2,13 +2,13 @@
   "rules": [
     {
       "domain_suffix": [
-        "sectigo.com",
-        "instantssl.com",
-        "optimumssl.com",
-        "usertrust.com",
         "enterprisessl.com",
         "hackerguardian.com",
-        "positivessl.com"
+        "instantssl.com",
+        "optimumssl.com",
+        "positivessl.com",
+        "sectigo.com",
+        "usertrust.com"
       ]
     }
   ],

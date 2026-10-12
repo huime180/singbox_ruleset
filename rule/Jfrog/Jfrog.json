@@ -2,9 +2,9 @@
   "rules": [
     {
       "domain_suffix": [
+        "bintray.com",
         "jfrog.com",
-        "jfrog.org",
-        "bintray.com"
+        "jfrog.org"
       ]
     }
   ],

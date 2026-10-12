@@ -2,15 +2,15 @@
   "rules": [
     {
       "domain_suffix": [
-        "bingworld.com",
+        "bing.com",
         "bing.com.cn",
-        "bingads.com",
-        "bingapistatistics.com",
-        "bingvisualsearch.com",
-        "bingsandbox.com",
-        "bingagencyawards.com",
         "bing.net",
-        "bing.com"
+        "bingads.com",
+        "bingagencyawards.com",
+        "bingapistatistics.com",
+        "bingsandbox.com",
+        "bingvisualsearch.com",
+        "bingworld.com"
       ]
     }
   ],

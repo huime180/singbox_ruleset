@@ -2,8 +2,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "dood.video",
         "dood.so",
+        "dood.video",
         "doodcdn.com"
       ]
     }

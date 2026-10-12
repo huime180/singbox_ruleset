@@ -2,10 +2,10 @@
   "rules": [
     {
       "domain_suffix": [
-        "ecimg.tw",
-        "pchomepay.com.tw",
         "ecapi-pchome.cdn.hinet.net",
+        "ecimg.tw",
         "pchome.com.tw",
+        "pchomepay.com.tw",
         "pcloud.tw"
       ]
     }

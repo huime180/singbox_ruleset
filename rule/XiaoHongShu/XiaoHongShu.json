@@ -2,9 +2,9 @@
   "rules": [
     {
       "domain_suffix": [
+        "fengkongcloud.com",
         "xhscdn.com",
         "xhscdn.net",
-        "fengkongcloud.com",
         "xiaohongshu.com"
       ]
     }

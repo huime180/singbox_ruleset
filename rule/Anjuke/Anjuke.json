@@ -2,13 +2,13 @@
   "rules": [
     {
       "domain_suffix": [
-        "ajkinclude.com",
-        "jikejia.cn",
-        "aifcdn.com",
-        "anjuke.cn",
         "aifang.com",
+        "aifcdn.com",
+        "ajkinclude.com",
+        "anjuke.cn",
+        "anjuke.com",
         "anjukestatic.com",
-        "anjuke.com"
+        "jikejia.cn"
       ]
     }
   ],
