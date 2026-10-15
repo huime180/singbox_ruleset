@@ -8,7 +8,7 @@ TikTok 规则由上游 blackmatrix7/ios_rule_script 的 Clash 规则自动转换
 
 ## 规则统计
 
-上游最后更新时间：2025-08-10 02:08:00
+上游最后更新时间：2026-10-16 04:51:01
 
 各类型规则统计：
 
@@ -16,9 +16,9 @@ TikTok 规则由上游 blackmatrix7/ios_rule_script 的 Clash 规则自动转换
 | ---- | ---- |
 | DOMAIN | 4 |
 | DOMAIN-KEYWORD | 2 |
-| DOMAIN-SUFFIX | 25 |
+| DOMAIN-SUFFIX | 28 |
 | PROCESS-NAME | 1 |
-| TOTAL | 32 |
+| TOTAL | 35 |
 
 ## sing-box
 
