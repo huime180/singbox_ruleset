@@ -8,7 +8,7 @@ Proxy 规则由上游 blackmatrix7/ios_rule_script 的 Clash 规则自动转换�
 
 ## 规则统计
 
-上游最后更新时间：2026-10-08 06:31:59
+上游最后更新时间：2026-10-18 03:59:31
 
 各类型规则统计：
 
@@ -16,10 +16,10 @@ Proxy 规则由上游 blackmatrix7/ios_rule_script 的 Clash 规则自动转换�
 | ---- | ---- |
 | DOMAIN | 9 |
 | DOMAIN-KEYWORD | 26 |
-| DOMAIN-SUFFIX | 6827 |
+| DOMAIN-SUFFIX | 6830 |
 | IP-CIDR | 96 |
 | IP-CIDR6 | 4 |
-| TOTAL | 6962 |
+| TOTAL | 6965 |
 
 ## sing-box
 
