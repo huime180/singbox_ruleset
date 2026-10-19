@@ -8,17 +8,17 @@ Lan 规则由上游 blackmatrix7/ios_rule_script 的 Clash 规则自动转换生
 
 ## 规则统计
 
-上游最后更新时间：2026-04-14 02:28:00
+上游最后更新时间：2026-10-20 05:59:47
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN | 7 |
+| DOMAIN | 9 |
 | DOMAIN-SUFFIX | 115 |
 | IP-CIDR | 14 |
 | IP-CIDR6 | 4 |
-| TOTAL | 140 |
+| TOTAL | 142 |
 
 ## sing-box
 

@@ -8,7 +8,7 @@ ChinaMaxNoMedia 规则由上游 blackmatrix7/ios_rule_script 的 Clash 规则自
 
 ## 规则统计
 
-上游最后更新时间：2026-10-18 04:01:52
+上游最后更新时间：2026-10-20 06:01:42
 
 各类型规则统计：
 
