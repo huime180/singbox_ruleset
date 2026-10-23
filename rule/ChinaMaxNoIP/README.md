@@ -8,7 +8,7 @@ ChinaMaxNoIP 规则由上游 blackmatrix7/ios_rule_script 的 Clash 规则自动
 
 ## 规则统计
 
-上游最后更新时间：2026-10-20 06:01:13
+上游最后更新时间：2026-10-24 04:59:22
 
 各类型规则统计：
 
@@ -16,9 +16,9 @@ ChinaMaxNoIP 规则由上游 blackmatrix7/ios_rule_script 的 Clash 规则自动
 | ---- | ---- |
 | DOMAIN | 269 |
 | DOMAIN-KEYWORD | 13 |
-| DOMAIN-SUFFIX | 110149 |
+| DOMAIN-SUFFIX | 110151 |
 | PROCESS-NAME | 14 |
-| TOTAL | 110445 |
+| TOTAL | 110447 |
 
 ## sing-box
 

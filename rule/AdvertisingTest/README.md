@@ -8,18 +8,18 @@ AdvertisingTest 规则由上游 blackmatrix7/ios_rule_script 的 Clash 规则自
 
 ## 规则统计
 
-上游最后更新时间：2026-10-20 05:57:37
+上游最后更新时间：2026-10-24 04:54:54
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN | 13159 |
+| DOMAIN | 13158 |
 | DOMAIN-KEYWORD | 280 |
-| DOMAIN-SUFFIX | 304676 |
+| DOMAIN-SUFFIX | 306901 |
 | IP-CIDR | 508 |
 | IP-CIDR6 | 3 |
-| TOTAL | 318626 |
+| TOTAL | 320850 |
 
 ## sing-box
 

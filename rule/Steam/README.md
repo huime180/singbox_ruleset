@@ -8,15 +8,16 @@ Steam 规则由上游 blackmatrix7/ios_rule_script 的 Clash 规则自动转换�
 
 ## 规则统计
 
-上游最后更新时间：2025-06-06 09:15:08
+上游最后更新时间：2026-10-24 04:55:18
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
 | DOMAIN-KEYWORD | 3 |
-| DOMAIN-SUFFIX | 51 |
-| TOTAL | 54 |
+| DOMAIN-SUFFIX | 54 |
+| IP-CIDR | 12 |
+| TOTAL | 69 |
 
 ## sing-box
 
