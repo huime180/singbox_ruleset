@@ -8,7 +8,7 @@ Apple 规则由上游 blackmatrix7/ios_rule_script 的 Clash 规则自动转换�
 
 ## 规则统计
 
-上游最后更新时间：2026-10-24 04:55:22
+上游最后更新时间：2026-10-26 04:15:00
 
 各类型规则统计：
 
@@ -16,11 +16,11 @@ Apple 规则由上游 blackmatrix7/ios_rule_script 的 Clash 规则自动转换�
 | ---- | ---- |
 | DOMAIN | 9 |
 | DOMAIN-KEYWORD | 7 |
-| DOMAIN-SUFFIX | 1551 |
+| DOMAIN-SUFFIX | 1550 |
 | IP-CIDR | 10 |
 | IP-CIDR6 | 3 |
 | PROCESS-NAME | 13 |
-| TOTAL | 1593 |
+| TOTAL | 1592 |
 
 ## sing-box
 

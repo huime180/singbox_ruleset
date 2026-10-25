@@ -8,7 +8,7 @@ ProxyLite 规则由上游 blackmatrix7/ios_rule_script 的 Clash 规则自动转
 
 ## 规则统计
 
-上游最后更新时间：2026-10-04 04:30:29
+上游最后更新时间：2026-10-26 04:17:17
 
 各类型规则统计：
 
@@ -16,10 +16,10 @@ ProxyLite 规则由上游 blackmatrix7/ios_rule_script 的 Clash 规则自动转
 | ---- | ---- |
 | DOMAIN | 24 |
 | DOMAIN-KEYWORD | 20 |
-| DOMAIN-SUFFIX | 850 |
+| DOMAIN-SUFFIX | 861 |
 | IP-CIDR | 89 |
 | IP-CIDR6 | 4 |
-| TOTAL | 987 |
+| TOTAL | 998 |
 
 ## sing-box
 

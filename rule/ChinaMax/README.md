@@ -8,20 +8,20 @@ ChinaMax 规则由上游 blackmatrix7/ios_rule_script 的 Clash 规则自动转�
 
 ## 规则统计
 
-上游最后更新时间：2026-10-24 04:58:49
+上游最后更新时间：2026-10-26 04:17:31
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN | 270 |
+| DOMAIN | 271 |
 | DOMAIN-KEYWORD | 13 |
-| DOMAIN-SUFFIX | 110478 |
+| DOMAIN-SUFFIX | 110205 |
 | IP-ASN | 1 |
 | IP-CIDR | 8245 |
 | IP-CIDR6 | 4312 |
 | PROCESS-NAME | 14 |
-| TOTAL | 123333 |
+| TOTAL | 123061 |
 
 ## sing-box
 

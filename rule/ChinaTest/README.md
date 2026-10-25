@@ -8,7 +8,7 @@ ChinaTest 规则由上游 blackmatrix7/ios_rule_script 的 Clash 规则自动转
 
 ## 规则统计
 
-上游最后更新时间：2026-10-24 04:57:49
+上游最后更新时间：2026-10-26 04:16:49
 
 各类型规则统计：
 
@@ -16,10 +16,10 @@ ChinaTest 规则由上游 blackmatrix7/ios_rule_script 的 Clash 规则自动转
 | ---- | ---- |
 | DOMAIN | 92 |
 | DOMAIN-KEYWORD | 9 |
-| DOMAIN-SUFFIX | 110213 |
+| DOMAIN-SUFFIX | 109935 |
 | IP-CIDR | 11 |
 | IP-CIDR6 | 4 |
-| TOTAL | 110329 |
+| TOTAL | 110051 |
 
 ## sing-box
 
