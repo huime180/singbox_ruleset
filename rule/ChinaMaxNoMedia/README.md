@@ -8,7 +8,7 @@ ChinaMaxNoMedia 规则由上游 blackmatrix7/ios_rule_script 的 Clash 规则自
 
 ## 规则统计
 
-上游最后更新时间：2026-10-26 04:18:24
+上游最后更新时间：2026-10-28 05:43:47
 
 各类型规则统计：
 
@@ -16,12 +16,12 @@ ChinaMaxNoMedia 规则由上游 blackmatrix7/ios_rule_script 的 Clash 规则自
 | ---- | ---- |
 | DOMAIN | 270 |
 | DOMAIN-KEYWORD | 11 |
-| DOMAIN-SUFFIX | 109771 |
+| DOMAIN-SUFFIX | 109773 |
 | IP-ASN | 1 |
-| IP-CIDR | 8245 |
+| IP-CIDR | 8244 |
 | IP-CIDR6 | 4312 |
 | PROCESS-NAME | 14 |
-| TOTAL | 122624 |
+| TOTAL | 122625 |
 
 ## sing-box
 

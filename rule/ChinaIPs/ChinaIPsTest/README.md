@@ -8,15 +8,15 @@ ChinaIPsTest 规则由上游 blackmatrix7/ios_rule_script 的 Clash 规则自动
 
 ## 规则统计
 
-上游最后更新时间：2026-10-26 04:17:46
+上游最后更新时间：2026-10-28 05:43:16
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| IP-CIDR | 16166 |
-| IP-CIDR6 | 6837 |
-| TOTAL | 23003 |
+| IP-CIDR | 16177 |
+| IP-CIDR6 | 6847 |
+| TOTAL | 23024 |
 
 ## sing-box
 

@@ -8,7 +8,7 @@ Advertising 规则由上游 blackmatrix7/ios_rule_script 的 Clash 规则自动�
 
 ## 规则统计
 
-上游最后更新时间：2026-10-26 04:12:26
+上游最后更新时间：2026-10-28 05:39:09
 
 各类型规则统计：
 
@@ -16,10 +16,10 @@ Advertising 规则由上游 blackmatrix7/ios_rule_script 的 Clash 规则自动�
 | ---- | ---- |
 | DOMAIN | 16436 |
 | DOMAIN-KEYWORD | 278 |
-| DOMAIN-SUFFIX | 279602 |
+| DOMAIN-SUFFIX | 273956 |
 | IP-CIDR | 486 |
 | IP-CIDR6 | 3 |
-| TOTAL | 296805 |
+| TOTAL | 291159 |
 
 ## sing-box
 

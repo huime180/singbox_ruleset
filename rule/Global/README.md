@@ -8,19 +8,19 @@ Global 规则由上游 blackmatrix7/ios_rule_script 的 Clash 规则自动转换
 
 ## 规则统计
 
-上游最后更新时间：2026-10-26 04:16:13
+上游最后更新时间：2026-10-28 05:42:04
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN | 127 |
+| DOMAIN | 129 |
 | DOMAIN-KEYWORD | 36 |
-| DOMAIN-SUFFIX | 34984 |
+| DOMAIN-SUFFIX | 34993 |
 | IP-CIDR | 115 |
 | IP-CIDR6 | 4 |
 | PROCESS-NAME | 1 |
-| TOTAL | 35267 |
+| TOTAL | 35278 |
 
 ## sing-box
 
